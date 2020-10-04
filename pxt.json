@@ -1,0 +1,22 @@
+{
+    "name": "micro game",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microturtle": "github:microsoft/pxt-microturtle#v0.0.9",
+        "pxt-sonar": "github:microsoft/pxt-sonar#v0.0.5",
+        "devices": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
